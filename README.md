@@ -1,5 +1,7 @@
 # poker hands kata
 
+My solution to [Ben Nuttall's poker hands kata](https://github.com/bennuttall/poker-kata)
+
 Some starter code is provided. It is the beginnings of an implementation of a
 poker hands comparison tool. In its current state it simply judges hands based
 on 'high card' only. There are some basic tests provided.
